@@ -125,7 +125,7 @@ Originally based on https://drop.rixx.de/JjBs by Rixxian, reroutes by Ff300, man
 
 ### King's Brand
 
-* Unequip twister, grab dream gate, benchwarp
+* Unequip twister, hit bell, grab dream gate, benchwarp
 * \[1U] Equip wielder, stag to King's Station, set dgate
 * Acid skip and fight Hornet 2, get King's Brand
 
