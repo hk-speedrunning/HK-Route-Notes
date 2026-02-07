@@ -131,14 +131,14 @@ Originally based on https://drop.rixx.de/JjBs by Rixxian, reroutes by Ff300, man
 
 ### Shade Cloak
 
-* Go toward upper KE room to hit Tower of Love lever (48)
 * Dreamgate back to King's Station
-* \[2D] Stag to Hidden Station, go down and get shade cloak (49)
+* \[2D] Stag to Hidden Station, go down and get shade cloak (48)
 
 ### Markoth
 
 * Dreamgate out, bench at King's Station (hit bell)
-* Go through lower KE to fight markoth and get essence, benchwarp
+* Do acid skip again, set dgate, go toward upper KE room to hit Tower of Love lever (dreamnail the hopper for soul) (49)
+* Dreamgate back and go right/down to fight markoth and get essence, benchwarp
 
 ### Failed Champion
 * \[2U] Stag to Forgotten Crossroads, bench
