@@ -174,18 +174,20 @@ If you are short on geo, you can get the geo rock below the shortcut in fungal.
 - Get to 310 geo from moss knights
 - Buy Greenpath stag, bench there [170]
 
-- After dash, stag to Crossroads (2 Up)
+- After dash, stag to Crossroads (1 Up)
+- Kill Gruzmom [220]
 - Buy shaman stone [0], do TE Shade skip
 
-- From Resting grounds stag, stag to crossroads
-- Go to claw, then from claw climb up through fungal shortcut to Spore Shroom entrance to deepnest
+- From Resting grounds stag, stag to crossroads (2 Up)
+- Go to claw, then from claw climb up through fungal shortcut to Spore Shroom entrance to deepnest, avoiding Queen's Station
 - The route is the same from here until the Gravedigger split
 
+### Late game changes
 - After dream nailing revek, stag to greenpath (1 Up), bench
 - Stag to Dirthmouth (2 Up)
 - Dream nail Gravedigger
 - S&Q to Greenpath stag, take off Shaman Stone
-- Go to the baldur shell chest, slopeball up to cliffs (Make sure to set your fps to 50)
+- Go to the Baldur Shell chest, slopeball up to cliffs (Make sure to set your fps to 50)
 - Climb up, do Joni's dark room
 
 - After dream nailing Joni, S&Q to Greenpath stag
