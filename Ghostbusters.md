@@ -174,7 +174,7 @@ If you are short on geo, you can get the geo rock below the shortcut in fungal.
 - Get to 310 geo from moss knights
 - Buy Greenpath stag, bench there [170]
 
-- After dash, stag to Crossroads (1 Up)
+- After dash, stag to Crossroads (2 Up)
 - Buy shaman stone [0], do TE Shade skip
 
 - From Resting grounds stag, stag to crossroads
