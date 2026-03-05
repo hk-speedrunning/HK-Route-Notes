@@ -100,9 +100,10 @@
 ## Shade Cloak
 - Right side Abyss drop
 - Get Shade Cloak
-- Save & Quit + early control
+- Save & Quit
 
 ## Cyclone Slash
+- Perform CDash early control
 - Right side abyss climb
 - Hidden Station stag (-300)
 - Stag to Dirtmouth
