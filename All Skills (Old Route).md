@@ -117,6 +117,8 @@
 - Save & Quit
 
 ## Abyss Shriek
+- Perform CDash early control
+- Get 3 hits of soul while going left
 - Abyss Shriek
 
 ## The Hollow Knight
