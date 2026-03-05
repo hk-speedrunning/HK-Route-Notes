@@ -58,7 +58,7 @@
 - Aim for full soul before GHusk
 - Enter GHusk Room
 - Kill Enemies before GHusk +35ish Geo
-- Kill GHusk +400-440
+- Kill GHusk +415-420
 - End GHusk with full soul
 
 ## Enter Sanctum
