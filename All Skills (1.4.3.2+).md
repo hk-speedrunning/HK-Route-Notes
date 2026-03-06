@@ -181,7 +181,9 @@
 - Get Shade Cloak, Save & Quit to skip animation
 
 ## Abyss Shriek
-- Do early control (after selecting the save hold up and mash dreamnail)
+- Do one method of early control when loading back in
+  - Crystal Dash EC (faster, but more strict input): after selecting the save and the screen fades to black completely, do 3 nail timings and CDash on the 3rd input
+  - Dream Nail EC (slower, but less strict input): after selecting the save hold up and mash DNail button
 - Go all the way left
 - Get at least 3 hits of soul
 - Get shriek
