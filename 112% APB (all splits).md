@@ -306,7 +306,7 @@ Note: All Pantheon Bosses means that you must fight every boss that appears in t
 ## Banishment
  - After collecting Trial 3's geo, DG back to King's Station
  - Stag to Greenpath and bench (Change Charms to Shaman, Flukenest, Wielder, Twister)
- - Stag to Dirtmouth
+ - Stag to Dirtmouth and Set a DG in Dirtmouth in front of the Stag transition
  - Fight Grey Prince Zote {2400} (before the mask shard)
  - Grab Bretta's mask shard and S&Q to Greenpath (Swap to twister + dashmaster + wielder + sharp shadow)
  - S&Q to the stag and head to the Lake of Unn
@@ -335,10 +335,10 @@ Note: All Pantheon Bosses means that you must fight every boss that appears in t
  - Fight Traitor Lord [>3100]
  - Dash Slash the frogs grub through the wall (46)
  - Collect the White Fragment from the White Lady and S&Q to Resting Grounds (unequip flukenest and twister)
- - Collect the Grey Mourner mask shard and DG to King's Station, call stag and move DG towards the exit while waiting
+ - Collect the Grey Mourner mask shard and DG to Dirtmouth
 
 ## Shopping
- - Stag to Dirtmouth and bench
+ - Bench in Dirtmouth
  - Buy Wayward Compass from Iselda [2890]
  - Head down the well to Grubfather and collect the rest of the rewards (no piss break) [8450]
  - S&Q to Dirtmouth (equip strength and quick slash)
@@ -347,19 +347,19 @@ Note: All Pantheon Bosses means that you must fight every boss that appears in t
 
 ## White Palace & Void Heart
  - Collect Carefree Melody from Nymm
- - Stag to Hidden Station
+ - Call the Stag and Stag to Hidden Station
  - Enter White Palace
  - Complete White Palace and collect Kingsoul
- - Buy the fountain vessel fragment [350]
- - Bench at the toll bench and swap charms (sharp shadow, dashmaster, fragile heart, joni's blessing and kingsoul)
+ - Bench at the Hidden Station Bench, and swap charms (sharp shadow, dashmaster, lifeblood heart, joni's blessing and kingsoul)
+ - Head left and Buy the fountain vessel fragment [350]
  - Head down into the Abyss and Open Lifeblood core (activate the door and go down to open birthplace early)
  - Collect Lifeblood Core
  - Head into Birthplace and grab the arcane egg
  - Complete the Void Heart cutscene
- - Collect Void Heart and DG to King's Station
+ - Collect Void Heart and S&Q to Hidden Station (unequip Lifeblood Heart and Joni's Blessing)
 
 ## Pure Nail & Godtuner
- - Head past the fountain
+ - Stag to King's Station, then head past the fountain
  - Set a DG in front of the Waterways Entrance at Lemm and Sell to Lemm [4000]
  - Head to the Nailsmith and upgrade your Nail [0]
  - Head to Junk Pit and open the Godseeker's cocoon
