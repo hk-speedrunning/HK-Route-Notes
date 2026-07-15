@@ -144,9 +144,17 @@
 -  Quit out back to KS, go to waterways key entry and use it
 - Grub Waterways Center
 
+## Greenpath
+
+-   [1U] Stag to Greenpath and bench
+-   Grub Cliffs Baldur Shell then quit out
+-   Grub Greenpath Cornifer
+-   Grub Greenpath Hunter
+-   Grub Greenpath Vessel Fragment then quit out
+
 ## Fog Canyon
 
--   [1D] Stag to Dirtmouth and bench there
+-   [1U] Stag to Dirtmouth and bench there
 -   CDash from King’s Pass ledge to Crystal Peaks elevator
 -   Grub Crystal Peak Mimic then quit to Dirtmouth
 -   Grub Crossroads Vengefly
@@ -158,7 +166,7 @@
 ## Lower Queen’s Gardens
 
 -   Petra arena
--   Grab Love Key o Dunk when exiting to warp back to the start of the room (if no Isma’s)
+-   Grab Love Key
 -   QG Toll Bench [-140 geo]
 
 ## Darknest
@@ -175,17 +183,8 @@
 -   Buy QG stag, bench, ring bell
 -   Grub Queen’s Gardens Upper then quit out
 
-## Greenpath
-
--   [1U] Stag to Greenpath and bench.
--   Grub Cliffs Baldur Shell then quit out
--   Grub Greenpath Cornifer
--   Grub Greenpath Hunter
--   Grub Greenpath Vessel Fragment then quit out
-
 ## Collector
--   [2U] Stag to King’s Station, bench
--   Dream nail vengefly in Tower of Love
+-   [1D] Stag to King’s Station, bench
 -   Kill Collector and quit out after the grubs
 
 ## Grubberfly’s Elegy
