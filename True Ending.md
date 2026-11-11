@@ -15,20 +15,27 @@
 - First moss charger [96]
 - Moss knight arena [136]
 - Kill VK, leave room with 3-4 soul [200]
-- Second moss charger, optionally pogo moss knights for full soul [204]
+- Second moss charger [204]
 - Defeat Hornet 1, collect MWC
 
-## Salubra Exit
+## Blue Lake
 - False Knight chest [404]
 - Get 4-5 hits in room after FK
 - Buy Crossroads Stag [354]
 - Get 6 soul and defeat Gruz Mother (avoid getting ceiling geo) [418]
 - Buy Shaman Stone [198]
-
-## Blue Lake
+- Bench outside Salubra
+### 1 / 2 Fireball Route
 - Die to husks (no Sly yet)
 - Equip Shaman Stone, collect soul and save Sly
 - Get 6 soul and perform TE shade skip (optimally 1 fireball)
+### 0 Fireball Route (saves ~4-5s)
+- Save Sly
+- Die
+- Equip Shaman's
+- Perform 0 Fireball TE Shade Skip
+
+## Dream Nail
 - Obtain Dream Nail
 
 ## Elder Hu
@@ -45,20 +52,21 @@
 
 ## Spirits Glade
 - Defeat Xero, leave and reenter room for essence {200}
-- Head to journal room, get bottom row (also get top row if you’re below 286 or if you’re doing right side rafters) [332]
-- Buy King’s Station, collect seal and quitout [32]
+- Head to journal room, get top row [312]
+- Buy King’s Station, collect seal and quitout [12]
 - Collect Seer seal and open glade door
 
 ## Gorgeous Husk
 - Perform revekless and obtain glade idol, quitout
 - Stag to King’s Station and bench
-- Kill Gorgeous Husk and friends [490]
+- Kill Gorgeous Husk and friends [467]
 
 ## Lumafly Lantern
-- You NEED 500 geo before Lemm, get lever lads if you need them [500]
-Perform rafters skip and get the seal
+- You NEED 500 geo before Lemm
+- Get Bottom Spire enemies, get lever lads if needed [500]
+- Perform rafters skip and get the seal
 - Sell all relics to lemm (three seals, one idol) and quitout [2650]
-- Stag to Dirtmouth and bench, buy lantern [850]
+- Stag to Dirtmouth, do NOT bench, buy lantern [850]
 
 ## Crystal Heart
 - Stag to Crossroads and buy peaks toll (get 1 hit) [800]
@@ -66,44 +74,45 @@ Perform rafters skip and get the seal
 - Get a final soul hit in sub 9 room (inventory drops) for Homothety fireball
 - Do peaks gauntlet and collect Crystal Heart, quitout
 
-## Chandelier
-- Buy Elegant Key and stag to King’s Station [0]
+## Shade Soul
+- Buy Elegant Key and quitout to King’s Station [0]
 - Perform lever skip and get spire bench
 - Go through the dark room to the bridge, try to get 6 soul
-- Defeat Soul Twister [20]
-- Defeat Norman and do Shade Soul early control, quitout after save icon [170]
-- Dark room again, get 3 hits on the rava and break the chandelier
+- Defeat Soul Twister
+- Defeat Norman and do Shade Soul early control, quitout after save icon [150]
 
 ## Lurien
+- Dark room again, get 3 hits on the rava and break the chandelier
 - Dream nail two watcher knights before starting the fight
 - Defeat Watcher Knights and climb up to Lurien, keep elevator down
 
 ## Basin Bench
-- Absorb Lurien, optimally quitout and do dream nail early control
-- Get WK chest (need at least 458 but can easily get more) [628]
-Head down to basin drop and get 3-5 soul, buy toll bench [478]
+- Absorb Lurien, optimally quitout and do CDash early control
+- Get WK chest (need at least 470 but can easily get more) [620]
+- Head down to basin drop and get 3-5 soul, buy toll bench [470]
 
 ## Lost Kin
 - Leave and reenter room, bench, and do mawlurks (get full soul)
-- Do basin trans dash and defeat Broken Vessel, aim to get 3 doubles and end fight with 2 soul
+- Do basin trans dash and defeat Broken Vessel, aim to get 4 doubles and end fight with 5 soul
 - Leave and reenter room, defeat Lost Kin (no death warp) {600}
 
 ## Enter Failed Champ
 - Collect Monarch Wings and quitout
 - Optimally get 3 hits of soul on the crawler for firebell
-- Buy Hidden Station, hit bell, and stag to Resting Grounds
+- Buy Hidden Station, hit bell, and stag to Resting Grounds [170]
 - Bench and collect Dream Wielder, quitout
 - Equip Dream Wielder and stag to Crossroads (don’t bench)
 - Get 5 hits in infected vengefly room and enter Failed Champion with full soul using dream nail early control
 
 ## Failed Champion
 - Fire two shade souls at the start
-- Defeat Failed Champion using Dream Wielder, quitout {900}
+- Defeat Failed Champion using Dream Wielder
+- Collect Failed Champion Essence and quitout {900}
 
 ## King’s Brand
 - Hit the bell and collect Dreamgate, quitout
 - Stag to King’s Station and place dreamgate
-- Get 1 hit on the belfly and do KE acid skip
+- Get 1 hit on the first belfly and do KE acid skip
 - Get 1-2 hits on the primal aspid and follow Hornet
 - Start dream nail, defeat Hornet 2 and collect King’s Brand
 
@@ -121,7 +130,7 @@ Head down to basin drop and get 3-5 soul, buy toll bench [478]
 ## Gorb
 - Stag to Dirtmouth, bench, do King’s Pass in reverse (get 1 hit)
 - Enter Howling Cliffs, dream nail the second crawlid after the breakable wall
-- Defeat Gorb, damage tank the vengefly, and quitout {<1250}
+- Defeat Gorb, cdash out of the room to the left (delay a small amount to collect essence), and quitout {<1250}
 
 ## Monomon
 - Take FCA to Fog Canyon and place a dreamgate outside Archives
@@ -136,10 +145,10 @@ Head down to basin drop and get 3-5 soul, buy toll bench [478]
 ## QG Bench
 - Take autopilot room through the shade gate and enter Queen’s Gardens
 - Get 8 soul and do petra arena, hazard warp and hit the lever
-- Drop down and do petra gauntlet, try to get full soul before buying toll bench [28]
+- Drop down and do petra gauntlet, try to get full soul before buying toll bench [30]
 
 ## Marmu
-- Defeat mantis arena and place a dreamgate before the first frogs transition [187]
+- Defeat mantis arena and place a dreamgate before the first frogs transition [190]
 - Go through frogs, you can use shade soul to take out bunches of them (can also get geo this way)
 - Get to full soul and 3-4 health before the final batch of frogs
 - Defeat Marmu and dreamgate out {<1600}
@@ -167,12 +176,18 @@ Head down to basin drop and get 3-5 soul, buy toll bench [478]
 
 ## Kingsoul
 - Do kingsmould skip and take the elevator up to the hub
-- Do Left Atrium, return to hub with 3 soul
-- Do Right Atrium and take the elevator up to balcony
-- Reach the Pale King with 3 soul and collect Kingsoul
+- Bench in the hub
+- Do Left Atrium, hit the orb and quitout to hub
+- Unequip Shaman Stone
+- Collect 2 soul on the way to Right Atrium
+- Do Right Atrium, collect 2 more soul after the sawblade drop
+- Hit the orb and take the elevator up to balcony
+- Collect 5 soul from the Wingmoulds
+- Nail the breakable wall
+- Reach the Pale King with full soul and collect Kingsoul
 
 ## Void Heart
-- Bench in Hidden Station, unequip Shaman Stone and overcharm Kingsoul
+- Bench in Hidden Station, overcharm Kingsoul
 - Head down to birthplace, optionally dream gate, and dream nail the black egg
 - Do abyss climb and collect Void Heart, quitout
 
