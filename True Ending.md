@@ -51,6 +51,7 @@
 - Do mantis early control and obtain claw, quitout after save icon appears
 
 ## Spirits Glade
+- Hit the bell before heading to Xero
 - Defeat Xero, leave and reenter room for essence {200}
 - Head to journal room, get top row [312]
 - Buy King’s Station, collect seal and quitout [12]
